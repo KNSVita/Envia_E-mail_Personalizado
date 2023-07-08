@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 #e-mail do remetente
-smtp_username = 'videoweb@anchietaba.com.br'
+smtp_username = 'exemplo@gmail.com'
 #senha do e-mail do remetente
-smtp_password = 'ctpstp2019'
+smtp_password = '@senha321'
 
 destinatarios = [
     {'nome':'Kauan','senha':'testesenha','email':'kauanvita@gmail.com'}
